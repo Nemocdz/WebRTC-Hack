@@ -37,3 +37,6 @@ WebRTC Native 的源码有 12G，完整编译很慢，直接使用也要解决�
 sh webrtc_iOS_module_build.sh ./common_audio ~/Desktop/output -b -f
 ```
 
+#### 文章
+
+[WebRTC Native 模块单独编译静态库（iOS）](https://nemocdz.github.io/post/webrtc-native-%E6%A8%A1%E5%9D%97%E5%8D%95%E7%8B%AC%E7%BC%96%E8%AF%91%E9%9D%99%E6%80%81%E5%BA%93ios/)
